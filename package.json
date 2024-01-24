@@ -1,5 +1,5 @@
 {
-  "name": "OtpDetectorRN",
+  "name": "otpdetectorrn",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -32,5 +32,23 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "description": "Auto detector of otp",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esubalewBitew/OtpDetectorRN.git"
+  },
+  "keywords": [
+    "react-native",
+    "otp",
+    "autodetector",
+    "otpVerify"
+  ],
+  "author": "Esubalew Bitew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esubalewBitew/OtpDetectorRN/issues"
+  },
+  "homepage": "https://github.com/esubalewBitew/OtpDetectorRN#readme"
 }
