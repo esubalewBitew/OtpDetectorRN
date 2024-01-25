@@ -38,7 +38,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/esubalewBitew/OtpDetectorRN.git"
+    "url": "git+https://github.com/esubalewBitew/otpdetectorrn.git"
   },
   "keywords": [
     "react-native",
@@ -49,7 +49,7 @@
   "author": "Esubalew Bitew",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/esubalewBitew/OtpDetectorRN/issues"
+    "url": "https://github.com/esubalewBitew/otpdetectorrn/issues"
   },
-  "homepage": "https://github.com/esubalewBitew/OtpDetectorRN#readme"
+  "homepage": "https://github.com/esubalewBitew/otpdetectorrn#readme"
 }
