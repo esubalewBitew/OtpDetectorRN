@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "432880882404",
+    "project_id": "react-native-otpdetectorrn",
+    "storage_bucket": "react-native-otpdetectorrn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432880882404:android:d1fd5383319379979a12f1",
+        "android_client_info": {
+          "package_name": "com.paziyontechnologygroup.otpdetectorrn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsHgm3gv8Yjvw_r4kt3_MeopVh_tzJH0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
